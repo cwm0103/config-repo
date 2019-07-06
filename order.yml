@@ -14,5 +14,4 @@ spring:
   application:
     name: cucheng-order
 
-server:
-  port: 8082
+server: port: 8082
