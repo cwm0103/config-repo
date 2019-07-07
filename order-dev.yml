@@ -16,7 +16,7 @@ spring:
 
 server:
   port: 8082
-env: dev5
+env: dev
 
 bory: 
   name: cwm
