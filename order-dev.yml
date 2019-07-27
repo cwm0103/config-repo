@@ -1,7 +1,7 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://192.168.5.200:8761/eureka/
+# eureka:
+#   client:
+#     service-url:
+#       defaultZone: http://192.168.5.200:8761/eureka/
 
 spring:
 #   datasource:
